@@ -97,4 +97,4 @@ The existing application faces the following challenges:
 - **User Satisfaction**: Positive user feedback and reduction in support tickets related to trading functionalities.
 
 ### Conclusion
-Enhancing the decentralized trading application with improved Web3 wallet integrations, advanced order management features, and a redesigned user interface will significantly boost user experience and platform adoption. This RFC outlines a detailed plan to achieve these goals, ensuring the Vega Protocol remains competitive and user-friendly.
+Enhancing the decentralized trading application with improved Web3 wallet integrations, advanced order management features, and a redesigned user interface will significantly boost user experience and platform adoption. This RFC outlines a detailed plan to achieve these goals, ensuring that the decentralized exchange remains competitive and user-friendly.
